@@ -87,6 +87,10 @@ p {
   margin: 5% 3% 5% 0;
 }
 
+apple-logo {
+  font-size: 1.5rem;
+}
+
 /* Features */
 
 #features {
@@ -196,4 +200,25 @@ p {
   p {
     font-size: 2rem;
   }
+  
+  .navbar-brand {
+    font-size: 4rem;
+  }
+
+  .nav-link{
+    font-size: 2rem;
+  }
+
+  .apple-logo {
+    font-size: 2rem;
+  }
+
+  .feature-title {
+    font-size: 2.75rem;
+  }
+
+  .btn {
+    font-size: 2rem;
+  }
+  
 }
